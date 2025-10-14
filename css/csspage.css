@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(255, 255, 255);
+  
+  background-image: url(../images5/Kayaking_3.jpg)
+
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;}
+
+
+body {
+  color: rgb(255, 255, 255);               
+  background-color: #ffffff;   
+}
+
+h1, h2, h3 {
+  color: #8e7200;            
+}
+
+a {
+  color: #ffffff;           
+}
+
+a:hover {
+  color: #ff6600; 
+
+  text-shadow: 4px 4px 6px rgba(1,1,1,1.7);
+
+
+}
